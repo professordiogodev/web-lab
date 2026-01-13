@@ -58,3 +58,8 @@ button {
 [data-theme="dark"] a {
   color: #4fc3f7;  /* Brighter links */
 }
+
+/* WIP: Experimental colors */
+.slogan {
+  color: #ff4081;  /* Bright pink - we might hate this later */
+}
